@@ -10,7 +10,7 @@ url: "" # the base hostname & protocol for your site
 
 # User setting
 owner:
-email:
+email:ghahremany.mj@gmail.com
 facebook_username:
 twitter_username:
 github_username:
@@ -19,7 +19,7 @@ address:
   - line:
   # Feel free to add more lines here 
 telephone:
-copyright:
+copyright:tehran.ir
 
 # API settings
 google_api_key:
